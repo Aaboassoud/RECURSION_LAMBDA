@@ -19,10 +19,3 @@ new_list=list(map(lambda number:number*number,list_of_numbers))
 
 #### print the new list.
 print(new_list)
-
-'''if words == "":
-    return 0
- elif words[0] in vowels:
-    return 1 + Count(words[1:])
- else:
-    return 0 + Count(words[1:])'''
